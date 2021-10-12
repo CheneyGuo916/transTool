@@ -1,9 +1,9 @@
-一款终端在线翻译及阅读的小工具
+一款终端在线翻译及朗读的小工具
 
 # Installation
 
 ```
-npm install transTool -g
+npm install transminitool -g
 ```
 
 # Usage
