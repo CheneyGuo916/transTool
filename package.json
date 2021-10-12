@@ -1,5 +1,5 @@
 {
-  "name": "transTool",
+  "name": "transminitool",
   "version": "0.0.1",
   "description": "终端翻译工具",
   "main": "index.js",
