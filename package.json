@@ -1,0 +1,16 @@
+{
+  "name": "transTool",
+  "version": "0.0.1",
+  "description": "终端翻译工具",
+  "main": "index.js",
+  "bin": {
+    "ts": "./bin/translate.js"
+  },
+  "author": "guochaochao@shizhuang-inc.com",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "say": "^0.16.0",
+    "yargs": "^17.2.1"
+  }
+}
